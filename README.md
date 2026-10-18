@@ -1,2 +1,2 @@
 # Module-6-Activity
-This is for a required assignment
+This repository is part of a required assignment for Module 6 Activity/Collaboration.
